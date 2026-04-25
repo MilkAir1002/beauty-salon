@@ -1,0 +1,8 @@
+.link-button {
+    -fx-background-color: transparent; /* Убираем фон */
+    -fx-border-color: transparent;    /* Убираем обводку */
+    -fx-text-fill: red;              /* Цвет текста как у ссылки */
+    -fx-underline: true;              /* Подчеркивание */
+    -fx-cursor: hand;                 /* Курсор в виде руки при наведении */
+    -fx-padding: 0;                   /* Убираем внутренние отступы */
+}
