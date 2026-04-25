@@ -1,4 +1,4 @@
-package controller;
+package salon.controller;
 
 public class LoginAdminController {
 }
